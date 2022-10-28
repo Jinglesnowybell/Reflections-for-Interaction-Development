@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Week 2 Reflection</title>
+        <link rel="stylesheet"
+              href="https://fonts.googleapis.com/css?family=Fuzzy Bubbles">
+        <style>
+            p {
+                font-family: "Fuzzy Bubbles"
+              }
+        </style>
+    </head>
+
+    <body>
+        <p> From the slides, I learnt more about the different basic CSS commands. I particularly enjoyed using Google fonts as it 
+            allowed me to have more creative freedom with my websites. Furthermore, I enjoyed adding different colours to my fonts to
+            enable viewers to discern different texts from each other. Furthermore, I enjoyed categorising the different sections of my
+            website which allowed me to organise my texts better to assign them specific colours and fonts. </p>
+    </body>
+</html>
+
