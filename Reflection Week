@@ -20,6 +20,41 @@
             website which allowed me to organise my texts better to assign them specific colours and fonts. </p>
             
         <h1> Week 3 Reflection </h1>
+        <p> From the slides, I learnt more HTML Forms. I enjoyed learning more about how tedious it was to make these
+            forms and had a deeper appreciation for people who do make forms.
+        </p>
+
+        <h1> Week 4 Reflection </h1>
+        <p> From the slides, I learnt more about responsive images. I particularly enjoyed how to make the images responsive as it
+            allowed me to understand the complexities of CSS. </p>
+
+        <h1> Week 5 Reflection </h1>
+        <p> From the slides, I learnt more about Javascript. I particularly enjoyed how interactive the class was and would
+            like to learn more from the person in the video again. </p>
+
+        <h1> Week 6 Reflection </h1>
+        <p> From the slides, I learnt more about the basics of Javascript. I particularly enjoyed learning about javascript objects as it
+            allowed me to make my coding more organised. </p>
+
+        <h1> Week 7 Reflection </h1>
+        <p> From the slides, I learnt more about DOM. I particularly enjoyed learning about the DOM tree as it showed just how
+            complex Javascript was. </p>
+
+        <h1> Week 8 Reflection </h1>
+        <p> From the slides, I learnt more about jquery and API. I particularly enjoyed how complicated both the materials were
+            and would like to do it more. </p>
+
+        <h1> Week 9 Reflection </h1>
+        <p> From the slides, I learnt more about bootstrap. I particularly enjoyed how different bootstraps could be used to attain
+            a similar result through manual coding in an easier way. </p>
+
+        <h1> Week 12 Reflection </h1>
+        <p> From the slides, I learnt more about restDB. I particularly enjoyed how restDB sent data to a database which then allowed the form
+            to check in with the data before either allowing or not allowing a user to enter something in. </p>
+
+        <h1> Week 14 Reflection </h1>
+        <p> From the slides, I learnt more about lottie animation. I particularly enjoyed how to implement lottie in different context of web development
+            and would do it again in the future. </p>
     </body>
 </html>
 
